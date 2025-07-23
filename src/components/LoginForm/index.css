@@ -136,3 +136,10 @@
   line-height: 16px;
   color: #ff0b37;
 }
+
+.login-credentials{
+  line-height: 2px;
+}
+.user-type{
+  text-decoration: underline;
+}
